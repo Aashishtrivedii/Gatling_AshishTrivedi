@@ -1,0 +1,93 @@
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/book/programming/9781788996662/1/ch01lvl1sec13/the-python-culture
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="rl"
+
+https://subscription-staging.packtpub.com/
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="ts"
+
+1618471316518
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"nav-account-button-text ml5","destination":"","id":"","imageUrl":"","innerText":"Account ","numChildButtons":0,"tag":"span"}
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Account 
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"The Python culture - Learn Python Programming - Second Edition"}
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="ec"
+
+7
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="it"
+
+1618471210964
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------40821652209285380252452515171
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------40821652209285380252452515171--

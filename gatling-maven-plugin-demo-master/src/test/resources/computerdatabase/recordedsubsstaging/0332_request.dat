@@ -1,0 +1,93 @@
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/search?query=Python&products=Book&category=Programming
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="rl"
+
+https://subscription-staging.packtpub.com/
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="ts"
+
+1618471258006
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-primary","destination":"https://subscription-staging.packtpub.com/book/application-development/9781788996662","id":"","imageUrl":"","innerText":"Read Now","numChildButtons":0,"tag":"a","name":""}
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Read Now
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Search 7,500+ Programming & Development eBooks & Videos | Packt Subscription"}
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="it"
+
+1618471210964
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------9879354711712998163338494691
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------9879354711712998163338494691--

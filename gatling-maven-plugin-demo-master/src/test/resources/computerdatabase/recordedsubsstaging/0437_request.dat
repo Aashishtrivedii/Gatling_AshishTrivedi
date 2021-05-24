@@ -1,0 +1,97 @@
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/book/programming/9781788996662/1/ch01lvl1sec13/the-python-culture
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="rl"
+
+https://subscription-staging.packtpub.com/
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="ts"
+
+1618471318043
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"dropdown navbar-button ng-scope open","destination":"","id":"nav-account","imageUrl":"","innerText":"Account \nSettings\nStore\nHelp\nLogout","numChildButtons":7,"tag":"li"}
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Account 
+Settings
+Store
+Help
+Logout
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"The Python culture - Learn Python Programming - Second Edition"}
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="ec"
+
+8
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="it"
+
+1618471210964
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------113652759317501923463677694848
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------113652759317501923463677694848--

@@ -1,0 +1,1 @@
+{"result":"Error","error":"bssoNotSupported","type":"TBAuthTelemetry","data":{"BSSO.info":"not-supported"},"traces":["BrowserSSO Initialized","window.navigator.msLaunchUri is not available for _pullBrowserSsoCookie"]}

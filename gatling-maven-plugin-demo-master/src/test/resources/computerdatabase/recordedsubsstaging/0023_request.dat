@@ -1,0 +1,93 @@
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/login
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="rl"
+
+
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="ts"
+
+1618470587047
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"cc-btn cc-dismiss","destination":"","id":"","imageUrl":"","innerText":"Accept","numChildButtons":0,"tag":"a","name":""}
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Accept
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Login | Packt Subscription"}
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="it"
+
+1618470583189
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------27480127166482766143247039347
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------27480127166482766143247039347--

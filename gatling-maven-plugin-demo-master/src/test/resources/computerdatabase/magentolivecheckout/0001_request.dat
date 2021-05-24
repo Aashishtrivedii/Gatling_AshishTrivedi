@@ -1,0 +1,97 @@
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="dl"
+
+https://subscription.packtpub.com/
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="rl"
+
+https://subscription.packtpub.com/
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="ts"
+
+1620824030768
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"nav-link-subscribe btn-primary","destination":"https://subscription.packtpub.com/login","id":"","imageUrl":"","innerText":"Sign in","numChildButtons":0,"tag":"a","name":""}
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Sign in
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Packt Subscription | Advance your knowledge in tech"}
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="it"
+
+1620824012929
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="exp"
+
+l0
+-----------------------------30499445059972999091637434534
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------30499445059972999091637434534--

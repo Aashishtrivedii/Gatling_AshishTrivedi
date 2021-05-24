@@ -1,0 +1,101 @@
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="dl"
+
+https://subscription.packtpub.com/login
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="rl"
+
+
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="ts"
+
+1620101627585
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-lg btn-primary btn-block","destination":"https://subscription.packtpub.com/login","id":"","imageUrl":"","innerText":"Sign In","numChildButtons":0,"tag":"button","name":"","value":""}
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Sign In
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"login-input-email","name":"email","tag":"input","placeholder":"Email address","inputType":"email"},{"id":"login-input-password","name":"password","tag":"input","placeholder":"Password","inputType":"password"},{"id":"","name":"","tag":"button"}]
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Login | Packt Subscription"}
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="udff[em]"
+
+e7c335fc4c03acf70cc985e04446777aca9e2a8ad4fa6b207875eaad605677a5
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="it"
+
+1620101588135
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="exp"
+
+l0
+-----------------------------101672238325109277281271839133
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------101672238325109277281271839133--

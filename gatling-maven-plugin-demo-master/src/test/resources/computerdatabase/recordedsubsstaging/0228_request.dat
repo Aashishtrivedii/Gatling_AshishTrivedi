@@ -1,0 +1,93 @@
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/book/data/9781789955750/1
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="rl"
+
+https://subscription-staging.packtpub.com/
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="ts"
+
+1618471105791
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-default btn-lg","destination":"https://beta-staging.packtpub.com/reader/book/data/9781789955750/1","id":"","imageUrl":"","innerText":"View beta","numChildButtons":0,"tag":"a","name":""}
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="cd[buttonText]"
+
+View beta
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Giving Computers the Ability to Learn from Data - Python Machine Learning - Third Edition"}
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="it"
+
+1618470908554
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------85479246937446424141353307937
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------85479246937446424141353307937--

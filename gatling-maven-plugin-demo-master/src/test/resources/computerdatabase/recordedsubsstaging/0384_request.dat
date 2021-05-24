@@ -1,0 +1,93 @@
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/book/application-development/9781788996662
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="rl"
+
+https://subscription-staging.packtpub.com/
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="ts"
+
+1618471276547
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-info btn-lg ng-binding","destination":"https://subscription-staging.packtpub.com/book/programming/9781788996662/1","id":"","imageUrl":"","innerText":"Start ","numChildButtons":0,"tag":"a","name":""}
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Start 
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Learn Python Programming - Second Edition"}
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="ec"
+
+4
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="it"
+
+1618471210964
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------3663750222221478475795571554
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------3663750222221478475795571554--

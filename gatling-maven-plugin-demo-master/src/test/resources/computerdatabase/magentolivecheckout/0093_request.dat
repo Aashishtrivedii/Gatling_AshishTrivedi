@@ -1,0 +1,97 @@
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="dl"
+
+https://subscription.packtpub.com/book/data/9781800206137/1
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="rl"
+
+https://subscription.packtpub.com/
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="ts"
+
+1620824078512
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-default","destination":"","id":"","imageUrl":"","innerText":" Buy eBook","numChildButtons":0,"tag":"button","name":"","value":""}
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="cd[buttonText]"
+
+ Buy eBook
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Introduction - Deep Learning from the Basics"}
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="v"
+
+2.9.39
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="o"
+
+30
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="it"
+
+1620824067186
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="exp"
+
+l0
+-----------------------------41445652961624294114442332325
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------41445652961624294114442332325--
