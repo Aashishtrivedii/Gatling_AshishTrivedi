@@ -8,7 +8,7 @@ import io.gatling.jdbc.Predef._
 
 class StagingFreeLearning extends Simulation {
 
-	val duration = Duration(1, MINUTES)
+	//val duration = Duration(1, MINUTES)
 
 	val httpProtocol = http
 		.baseUrl("https://staging-mg.packtpub.com")
@@ -672,5 +672,10 @@ class StagingFreeLearning extends Simulation {
 
 	val anyuser = scenario("StagingFreeLearning").exec(UserHitsStagingURL.userhitsURL,BrowseTitle.browsetitle,NavigateToFreeLearning.navigatefreelearning)
 
-	setUp(anyuser.inject(rampUsers(25).during(duration)).protocols(httpProtocol))
+	setUp(anyuser.inject(nothingFor(5),
+		atOnceUsers(users =1),
+		rampUsers(users = 5)during(10),
+		constantUsersPerSec(rate = 20) during(20)
+	))
+		.protocols(httpProtocol)
 }

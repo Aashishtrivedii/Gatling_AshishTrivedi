@@ -509,6 +509,15 @@ t.ajax/A.onreadystatechange@https://dna8twue3dlxq.cloudfront.net/js/profitwell.j
 	}
 
 
-	val scn = scenario("SubsLiveJumpbackIn").exec(LOGINPAGE.loginpage,JUMPBACKIN.jumpbackin)
-	setUp(scn.inject(atOnceUsers(1))).protocols(httpProtocol)
+	val admin = scenario("SubsLiveJumpbackInAdmin").exec(LOGINPAGE.loginpage,JUMPBACKIN.jumpbackin)
+	val normaluser=scenario("SubsLiveJumpbackInNormaluser").exec(LOGINPAGE.loginpage,JUMPBACKIN.jumpbackin)
+
+	setUp(admin.inject(atOnceUsers(5)),
+		normaluser.inject(
+			nothingFor(5),
+			atOnceUsers(users =1),
+			rampUsers(users = 5)during(10),
+			constantUsersPerSec(rate = 20) during(20)
+		))
+		.protocols(httpProtocol)
 }

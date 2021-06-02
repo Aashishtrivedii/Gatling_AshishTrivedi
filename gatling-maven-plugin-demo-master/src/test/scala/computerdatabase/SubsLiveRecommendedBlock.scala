@@ -423,6 +423,12 @@ t.ajax/A.onreadystatechange@https://dna8twue3dlxq.cloudfront.net/js/profitwell.j
 	}
 
 
-	val scn = scenario("SubsLiveRecommendedBlock").exec(LoginPage.loginpage,RecommendedBlock.rblock)
-	setUp(scn.inject(atOnceUsers(1))).protocols(httpProtocol)
+	val AnyUser = scenario("SubsLiveRecommendedBlock").exec(LoginPage.loginpage,RecommendedBlock.rblock)
+
+	setUp(AnyUser.inject(nothingFor(5),
+		atOnceUsers(users =1),
+		rampUsers(users = 5)during(10),
+		constantUsersPerSec(rate = 20) during(20)
+	))
+		.protocols(httpProtocol)
 }

@@ -339,6 +339,12 @@ t.ajax/A.onreadystatechange@https://dna8twue3dlxq.cloudfront.net/js/profitwell.j
 							.formParam("referer", "https://subscription.packtpub.com/")))
 		}
 
-	val scn = scenario("SubsLiveLogin").exec(LOGIN.login)
-	setUp(scn.inject(atOnceUsers(1))).protocols(httpProtocol)
+	val anyUser = scenario("SubsLiveLogin").exec(LOGIN.login)
+
+	setUp(anyUser.inject(nothingFor(5),
+		  atOnceUsers(users =1),
+			rampUsers(users = 5)during(10),
+			constantUsersPerSec(rate = 20) during(20)
+	))
+		.protocols(httpProtocol)
 }
