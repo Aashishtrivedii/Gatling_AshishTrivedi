@@ -1270,8 +1270,13 @@ class MagentoStagingCheckout extends Simulation {
 
 		}
 
+<<<<<<< HEAD
 	val admin = scenario("Stagingadmin").exec(ProductSearch.prodsearch,CheckOut.checkout)
 	val normaluser=scenario("Stagingnormaluser").exec(ProductSearch.prodsearch,CheckOut.checkout)
+=======
+	val admin = scenario("StagingFreeLearningadmin").exec(ProductSearch.prodsearch,CheckOut.checkout)
+	val normaluser=scenario("StagingFreeLearningnormaluser").exec(ProductSearch.prodsearch,CheckOut.checkout)
+>>>>>>> 68acb8c05dd428b1a5fc10eba84516cc138500c1
 
 
 	setUp(admin.inject(atOnceUsers(5)),
