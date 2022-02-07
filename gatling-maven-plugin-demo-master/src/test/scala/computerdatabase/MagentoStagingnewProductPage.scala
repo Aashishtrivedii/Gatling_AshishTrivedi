@@ -812,9 +812,9 @@ class MagentoStagingnewProductPage extends Simulation {
 							.get(uri07 + "?a=43637&v=5.6.3&p0=e%3Dce%26m%3D%255B%255D&p1=e%3Dexd%26site_type%3Dd&p2=e%3Dvp%26p%3D9781789955750&p3=e%3Ddis&adce=1&tld=packtpub.com&dtycbr=11706")))
 		}
 
-	val guestUserr = scenario("MagentoStagingnewProductPage1").exec(Guest.guest)
+	val guestUserr = scenario("MagentoStagingnewProductPageGuest").exec(Guest.guest)
 
-	val signedInUserr = scenario("MagentoStagingnewProductPage2").exec(Guest.guest,SignInMagentostaging.signinmagentostaging,NewProductpage.newproductpage)
+	val signedInUserr = scenario("MagentoStagingnewProductPageSigneIn").exec(Guest.guest,SignInMagentostaging.signinmagentostaging,NewProductpage.newproductpage)
 
 	setUp(guestUserr.inject(rampUsers(20).during(duration)),
 		signedInUserr.inject(rampUsers(10).during(duration)

@@ -1,0 +1,113 @@
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="dl"
+
+https://www.packtpub.com/checkout/subscription/packt-subscription-monthly-launch-offer
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="rl"
+
+
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="ts"
+
+1626429179194
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-primary long","destination":"https://www.packtpub.com/checkout/subscription/packt-subscription-monthly-launch-offer","id":"","imageUrl":"","innerText":"Continue","numChildButtons":0,"tag":"button","name":"","value":""}
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Continue
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"addressLine1","name":"line1","tag":"input","inputType":"text"},{"id":"addressLine2","name":"line2","tag":"input","inputType":"text"},{"id":"city","name":"locality","tag":"input","inputType":"text"},{"id":"state","name":"state","tag":"select"},{"id":"state_input","name":"state_input","tag":"input","inputType":"text","valueMeaning":"empty"},{"id":"country","name":"country","tag":"select"},{"id":"postcode","name":"postal_code","tag":"input","inputType":"text"}]
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Checkout | Packt"}
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="udff[em]"
+
+ad96f67f51c56e7f5c4444c092aa2f3b7908b46f281431eb005b5f7cc27bdca2
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="udff[fn]"
+
+05d08de271d2773a504b3a30f98df26cccda55689a8dc3514f55d3f247553d2b
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="udff[ln]"
+
+0d759947a852cb45846d98c162ce1240d0800b8045ceaa40e6336b5041d257b4
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="udff[ct]"
+
+d209bcc17778fd19fd2bc0c99a3868bf011da5162d3a75037a605768ebc276e2
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="udff[zp]"
+
+726cdaf2d49642d5f2779b03cf4684c8a91d94eba47944e0dc824c205ad29770
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="v"
+
+2.9.43
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="ec"
+
+3
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="it"
+
+1626429113111
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------32262583891601719262306806799
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------32262583891601719262306806799--

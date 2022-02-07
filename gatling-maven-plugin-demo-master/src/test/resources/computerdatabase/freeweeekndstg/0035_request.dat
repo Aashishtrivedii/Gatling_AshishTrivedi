@@ -1,0 +1,105 @@
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/register
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="rl"
+
+
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="ts"
+
+1627986577823
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-lg btn-primary btn-block","destination":"https://subscription-staging.packtpub.com/register","id":"","imageUrl":"","innerText":"Create Account","numChildButtons":0,"tag":"button","name":"","value":""}
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Create Account
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"create-account-first-name","name":"first-name","tag":"input","placeholder":"First Name","inputType":"name"},{"id":"create-account-last-name","name":"last-name","tag":"input","placeholder":"Last Name","inputType":"name"},{"id":"create-account-email","name":"email","tag":"input","placeholder":"Enter Email","inputType":"email"},{"id":"create-account-password","name":"password","tag":"input","placeholder":"Choose Password","inputType":"password"},{"id":"create-account-confirm-password","name":"confirm-password","tag":"input","placeholder":"Confirm Password","inputType":"password"},{"id":"create-account-mailing-opt-in","name":"mailing-opt-in","tag":"input","inputType":"radio"},{"id":"","name":"","tag":"button"}]
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Register | Packt Subscription"}
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="udff[em]"
+
+9b271bcfdabb029a76a5e58901409d912fb6e864bf7f0c4f9495c1d06be5db4c
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="udff[fn]"
+
+05d08de271d2773a504b3a30f98df26cccda55689a8dc3514f55d3f247553d2b
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="udff[ln]"
+
+9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="v"
+
+2.9.44
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="ec"
+
+3
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1627986418780.419222997
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="it"
+
+1627986540476
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------3939495279975910558998655416
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------3939495279975910558998655416--

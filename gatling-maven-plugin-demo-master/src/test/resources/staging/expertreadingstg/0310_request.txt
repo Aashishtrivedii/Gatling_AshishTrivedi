@@ -1,0 +1,1 @@
+{"r_value":0.38612773364641617,"is_vpv":false,"session_only":false,"rec_value":0.4037037037037037,"user_id":"f4fafa38-7176-5f27-9be7-e52b8126a5dc"}

@@ -1270,7 +1270,16 @@ class MagentoStagingCheckout extends Simulation {
 
 		}
 
-	val anyuser = scenario("StagingFreeLearning").exec(ProductSearch.prodsearch,CheckOut.checkout)
+	val admin = scenario("Stagingadmin").exec(ProductSearch.prodsearch,CheckOut.checkout)
+	val normaluser=scenario("Stagingnormaluser").exec(ProductSearch.prodsearch,CheckOut.checkout)
 
-	setUp(anyuser.inject(atOnceUsers(20))).protocols(httpProtocol)
+
+	setUp(admin.inject(atOnceUsers(5)),
+		normaluser.inject(
+			nothingFor(5),
+			atOnceUsers(users =1),
+			rampUsers(users = 5)during(10),
+			constantUsersPerSec(rate = 20) during(20)
+		))
+		.protocols(httpProtocol)
 }

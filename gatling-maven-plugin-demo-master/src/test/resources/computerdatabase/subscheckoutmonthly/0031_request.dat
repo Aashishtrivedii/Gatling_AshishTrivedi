@@ -1,0 +1,105 @@
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="dl"
+
+https://www.packtpub.com/checkout/subscription/packt-subscription-monthly-launch-offer
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="rl"
+
+
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="ts"
+
+1626429150609
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"btn btn-primary long","destination":"https://www.packtpub.com/checkout/subscription/packt-subscription-monthly-launch-offer","id":"","imageUrl":"","innerText":"Continue","numChildButtons":0,"tag":"button","name":"","value":""}
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Continue
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"username","name":"username","tag":"input","placeholder":"Email address","inputType":"email"},{"id":"password","name":"password","tag":"input","placeholder":"Password","inputType":"password"},{"id":"firstName","name":"firstName","tag":"input","placeholder":"First name","inputType":"text"},{"id":"lastName","name":"lastName","tag":"input","placeholder":"Last name","inputType":"text"}]
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Checkout | Packt"}
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="udff[em]"
+
+ad96f67f51c56e7f5c4444c092aa2f3b7908b46f281431eb005b5f7cc27bdca2
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="udff[fn]"
+
+05d08de271d2773a504b3a30f98df26cccda55689a8dc3514f55d3f247553d2b
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="udff[ln]"
+
+0d759947a852cb45846d98c162ce1240d0800b8045ceaa40e6336b5041d257b4
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="v"
+
+2.9.43
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1617965825884.1082240722
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="it"
+
+1626429113111
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------230577846027734360331875898407
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------230577846027734360331875898407--

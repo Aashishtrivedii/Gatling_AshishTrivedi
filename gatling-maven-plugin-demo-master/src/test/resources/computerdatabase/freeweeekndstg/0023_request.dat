@@ -1,0 +1,97 @@
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="id"
+
+445429252334850
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="dl"
+
+https://subscription-staging.packtpub.com/register
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="rl"
+
+
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="ts"
+
+1627986544562
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"cc-btn cc-dismiss","destination":"","id":"","imageUrl":"","innerText":"Accept","numChildButtons":0,"tag":"a","name":""}
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Accept
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Register | Packt Subscription"}
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="cd[parameters]"
+
+[]
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="sh"
+
+1024
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="udff[em]"
+
+28482faee1936c1fc83fa98141a86dab2e7627ec61e2da4c9ac1539d40077be1
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="v"
+
+2.9.44
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="ec"
+
+2
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1627986418780.419222997
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="it"
+
+1627986540476
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------383173113717924306111297800190
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------383173113717924306111297800190--
